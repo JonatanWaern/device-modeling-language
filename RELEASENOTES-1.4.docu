@@ -236,5 +236,8 @@
 
       The internal representation of values of template types has been changed.
       It is no longer allowed to cast such values to integer or pointer types.
+  <build-id value="next"><add-note> Fixed a bug in the DML-provided
+      implementation of the <tt>description</tt> method of the
+      <tt>register_view</tt> interface.
   </add-note></build-id>
 </rn>
